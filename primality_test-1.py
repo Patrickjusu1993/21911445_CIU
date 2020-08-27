@@ -1,3 +1,6 @@
+#dseral@gmail.com
+
+
 #a program that get input from user that show how many iteration needed to find 
 #out if a number is prime or not. If the number is not prime (composite) 
 #it gives the factor(s) of the given number.
