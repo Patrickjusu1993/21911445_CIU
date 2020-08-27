@@ -1,5 +1,5 @@
-
-#PATRICK JUSU CEASER CIPHER CRYPT APP.   dseral@gmail.com
+#dseral@gmail.com
+#PATRICK JUSU CEASER CIPHER CRYPT APP.   
 # we need 2 helper mappings, from letters to ints and the inverse
 L2I = dict(zip("ABCDEFGHIJKLMNOPQRSTUVWXYZ",range(26)))
 I2L = dict(zip(range(26),"ABCDEFGHIJKLMNOPQRSTUVWXYZ"))
