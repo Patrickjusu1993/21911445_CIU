@@ -1,3 +1,4 @@
+#dseral@gmail.com
 #Sieve of Eratosthenes is simple, ancient algorithm for finding all prime numbers up to any given limit. 
 #A python application that ask user for upper limit as n and use this ancient algorithm to print all available prime numbers from 2 to n.
 
