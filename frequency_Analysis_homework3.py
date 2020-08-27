@@ -1,3 +1,5 @@
+""dseral@gmail.com""
+
 """Basic Frequency analysis of Caesar cipher"""
 
 cipher = ' ZL ANZR VF CNGEVPX WHFH. ZNFGREF VA PBZCHGRE RATVARREVAT. GUVF VF NFFVTAZRAG GUERR'
